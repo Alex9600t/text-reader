@@ -1,6 +1,5 @@
 #импорты
 from gtts import gTTS
-import os
 #спрашиватель
 a= input("название файла/file name ")
 x = input("введите текст/text ")
